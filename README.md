@@ -102,7 +102,7 @@ It reflects real-world thinking, including:
 
 ## 👤 Author
 
-Built with focus and intention by **Fernando Ramirez**
+Built by **Fernando Ramirez**
 
 
 
