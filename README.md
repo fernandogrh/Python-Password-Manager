@@ -1,4 +1,4 @@
-# 🔐 ** Python Password Manager (Tkinter)**
+# 🔐 Python Password Manager (Tkinter)
 ### A desktop Password Manager built in Python using Tkinter, designed to demonstrate clean code structure, user-focused features, and real-world data handling.
 
 > This project goes beyond basics by combining GUI development, file persistence, validation logic, and automation into one cohesive application.
