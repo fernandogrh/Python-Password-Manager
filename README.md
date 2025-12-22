@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
+![JSON](https://img.shields.io/badge/Data-JSON-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 # 🔐 Python Password Manager (Tkinter)
 ### A desktop Password Manager built in Python using Tkinter, designed to demonstrate clean code structure, user-focused features, and real-world data handling.
 
