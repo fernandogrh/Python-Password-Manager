@@ -53,7 +53,7 @@ This project was built to showcase **core Python development** principles:
 
 - main.py — Application logic and GUI
 
-- data.json — Stored credentials (ignored in version control)
+- data.json — Created automatically to store credentials locally
 
 - logo.png — Application logo
 
@@ -70,6 +70,15 @@ This project was built to showcase **core Python development** principles:
 4. Data is stored locally in a structured JSON file
 
 5. Search any saved website to instantly retrieve credentials
+
+## How to Run
+
+    git clone https://github.com/fernandogrh/Python-Password-Manager.git
+    cd Python-Password-Manager
+    pip install -r requirements.txt
+    python main.py
+
+⚠️ Make sure Python 3 is installed on your system.
 
 ## 🛠️ Technologies Used
 
